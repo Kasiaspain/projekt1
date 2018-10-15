@@ -1,0 +1,28 @@
+﻿body
+{
+    height:2000px;
+}
+#move {
+    height:50px;
+    width:50px;
+    background-color:red;
+    position:fixed;
+}
+
+#movegreen {
+    height:50px;
+    width:50px;
+    background-color:green;
+    position:fixed;
+    margin-left:300px;
+}
+
+#moveorange {
+    height: 50px;
+    width: 50px;
+    background-color: darkorange;
+    position: fixed;
+    margin-left: 600px;
+    text-align: center;
+    align-content: center;
+}
